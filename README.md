@@ -25,6 +25,3 @@ Para explorar o projeto, você precisará de um ambiente que suporte Jupyter Not
 ## Contribuições
 Contribuições, sugestões e feedbacks são sempre bem-vindos. 
 
-## Contato
-- Romário Abílio de França - [romarioabilio22082001@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/rom%C3%A1rio-ab%C3%ADlio-837505235/]
